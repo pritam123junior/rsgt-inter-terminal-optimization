@@ -32,10 +32,6 @@ Developed a comprehensive data-driven solution to optimize inter-terminal contai
 - SCY Yard stage accounts for the highest delays
 - Evening shifts show significantly longer processing times
 - Vendor performance variation is minimal in travel but differs in yard efficiency
-- [Add your actual forecast numbers here]
-
-## Screenshots
-![Dashboard](screenshots/dashboard-kpi-tiles.png)
 
 ## Deliverables
 - Automated Power Query data model
